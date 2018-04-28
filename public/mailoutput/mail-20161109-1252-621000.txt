@@ -1,0 +1,57 @@
+To: John Smith <clezer@isonhei.com.br>
+Subject: Example!
+Message-ID: <a2add38893566e213b05b253e4572ef1@localhost>
+Date: Wed, 09 Nov 2016 12:52:38 +0000
+From: Cheque Teatro <ingressos@ticketin.com.br>
+Cc: clezer@isonhei.com.br
+MIME-Version: 1.0
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Laravel</title>
+
+    <link href=3D"https://fonts.googleapis.com/css?family=3DLato:100" rel=
+=3D"stylesheet" type=3D"text/css">
+
+    <style>
+        html, body {
+            height: 100%;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            width: 100%;
+            display: table;
+            font-weight: 100;
+            font-family: 'Lato';
+        }
+
+        .container {
+            text-align: center;
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+        .content {
+            text-align: center;
+            display: inline-block;
+        }
+
+        .title {
+            font-size: 96px;
+        }
+    </style>
+</head>
+<body>
+<div class=3D"container">
+    <div class=3D"content">
+        <div class=3D"title">Laravel 5</div>
+    </div>
+</div>
+</body>
+</html>
+
