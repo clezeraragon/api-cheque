@@ -15,7 +15,7 @@ use laravel\pagseguro\Platform\Laravel5\PagSeguro;
 
 
 Route::get('/', function () {
-//    return view('email.template');
+return view('welcome');
 });
 
 Route::get('/como-funciona', ['as' => 'admin.como-funciona', 'uses' => 'FunctionsController@PageComoFunciona']);
